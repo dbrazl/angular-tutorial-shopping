@@ -1,6 +1,6 @@
 # angular-tutorial-shopping
 
-Esse uma aplicação tutorial criada seguindo a documentação do Angular. Nela é visto os priciáis conceitos da framework como:
+Esse uma aplicação tutorial criada seguindo a documentação do Angular. Nela é visto os principais conceitos da framework como:
 
 1. Criação do projeto
 2. Componentização
